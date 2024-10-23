@@ -1,11 +1,11 @@
 # Ripple Carry Adder
 
-![Ripple Carry Adder](ripple-carry-adder.mp4)
+https://github.com/jancyrusm/rpa-ha-fa/blob/main/ripple-carry-adder.mp4
 
 # Full Adder
 
-![Full Adder](full-adder.mp4)
+https://github.com/jancyrusm/rpa-ha-fa/blob/main/full-adder.mp4
 
 # Half Adder
 
-![Half Adder](half-adder.mp4)
+https://github.com/jancyrusm/rpa-ha-fa/blob/main/half-adder.mp4
